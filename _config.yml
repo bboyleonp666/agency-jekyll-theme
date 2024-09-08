@@ -16,10 +16,11 @@ theme: jekyll-agency
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Your Awesome Website
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Site description"
-author     : Your Name
+# title      : Your Awesome Website
+title      : City 4 Crew
+email      : city4crew@gmail.com #this is also the email contact forms will go to
+description: "City 4 Crew is a breaking crew started in xxxx. We are a group of dancers who love to dance and share our passion with the world. We are based in the Taoyuan city in Taiwan, which is the 4th city counting from the north."
+author     : PoYuan Wang
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px

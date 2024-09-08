@@ -39,24 +39,19 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "Events & Achievements"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+      - title: "Outbreak - Trip 2 Europe Champion"
+        year: "2024"
+        desc: "Quake won the championship of Outbreak in Europe."
+        image: assets/img/timeline/timeline_outbreakChampion.jpeg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "History Starts - City 4 Crew"
+        year: "2020"
+        desc: "City 4 crew was founded by ..."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Title"
@@ -71,7 +66,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "We smoke our enemies in the battle and we also smoke a lot."
     section: about
 
   clients:
@@ -94,44 +89,34 @@ en: &DEFAULT_EN
 
   team:
     title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    text: "City 4 Crew members are ..."
+    subtext: City 4 members are willing to share their passion with the world. Feel free to support and find them on social media.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "Beast"
+        role: "Crew Head"
+        image: assets/img/team/team_beast.jpeg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+          - url: https://www.instagram.com/bboybeast
+            icon: fab fa-instagram
+      - name: "Quake"
+        role: "我叫阿振"
+        image: assets/img/team/team_quake.jpeg
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
+          - url: https://www.facebook.com/bboyquaketw
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+          - url: https://www.instagram.com/quake_chan
+            icon: fab fa-instagram
+      - name: "Yizuo"
+        role: "Financial Manager"
+        image: assets/img/team/team_yizuo.png
         social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+          - url: https://www.instagram.com/yizuo_0601
+            icon: fab fa-instagram
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "For comercial inquiries or questions, please email us."
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -153,9 +138,9 @@ en: &DEFAULT_EN
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com/bboyleonp666/bboyleonp666.github.io
         icon: "fab fa-github"
-      - url: https://instagram.com
+      - url: https://www.instagram.com/city4crew/
         icon: "fab fa-instagram"
 en-US:
   <<: *DEFAULT_EN
