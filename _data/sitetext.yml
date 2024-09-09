@@ -113,6 +113,32 @@ en: &DEFAULT_EN
         social:
           - url: https://www.instagram.com/yizuo_0601
             icon: fab fa-instagram
+      - name: "Lizardforce"
+        role: "Dog Face Master"
+        image: assets/img/team/team_lizardforce.jpeg
+        social:
+          - url: https://www.instagram.com/
+            icon: fab fa-instagram
+      - name: "Jia Li"
+        role: "Food Lover"
+        image: assets/img/team/team_jiali.jpeg
+        social:
+          - url: https://www.instagram.com/_yang0727
+            icon: fab fa-instagram
+      - name: "Qiru"
+        role: "Dance Addict"
+        image: assets/img/team/team_qiru.jpeg
+        social:
+          - url: https://www.instagram.com/qiru_wu_
+            icon: fab fa-instagram
+      - name: "Wildjun"
+        role: "Sex Machine"
+        image: assets/img/team/team_wildjun.jpg
+        social:
+          - url: https://www.instagram.com/city4real_wildjun
+            icon: fab fa-instagram
+          - url: https://youtu.be/OS3HsUyGO70?si=aQcZz0w60nXHsJf_
+            icon: fab fa-youtube
 
   contact:
     title: "Contact Us"
