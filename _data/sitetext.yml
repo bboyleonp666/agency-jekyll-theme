@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     button: 服務項目
     buttonlink: "#services"
 
-  服務項目:
+  services:
     title: "服務項目"
     text: "Lorem ipsum"
     section: services
