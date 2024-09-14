@@ -48,7 +48,7 @@ en: &DEFAULT_EN
         year: "2020"
         desc: "集結新竹、桃園、新北、基隆四個城市舞者"
         image: assets/img/timeline/timeline_city4logo.JPG
-        social:
+        button:
       - url: https://www.instagram.com/city4crew
         icon: fab fa-instagram
       - url: https://www.facebook.com/city4crew
