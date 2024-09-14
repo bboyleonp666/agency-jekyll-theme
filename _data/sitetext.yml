@@ -21,19 +21,19 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-dice #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "街舞教學及演出"
+        desc: "Breaking(霹靂舞)、K-POP、Hiphop、霹靂舞運動選手培訓、商業表演、舞蹈編排"
+        icon: fas fa-bolt #find more at https://fontawesome.com/icons
+      - title: "活動籌辦"
+        desc: "動策劃與主題設計、活動現場執行、宣傳設計、供應商管理"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "自媒體行銷"
+        desc: "內容創作、短影音拍攝、剪輯、靜態攝影、活動紀錄"
+        icon: fas fa-users
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "旗下組織"
+    text: ""
     section: portfolio
     closebutton: "Close Project"
 
@@ -44,20 +44,27 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Outbreak - Trip 2 Europe Champion"
-        year: "2024"
-        desc: "Quake won the championship of Outbreak in Europe."
-        image: assets/img/timeline/timeline_outbreakChampion.jpeg
-        alt:
-      - title: "History Starts - City 4 Crew"
+      - title: "City4 crew 成立"
         year: "2020"
-        desc: "City 4 crew was founded by ..."
-        image: assets/img/timeline/3.jpg
+        desc: "集結新竹、桃園、新北、基隆四個城市舞者"
+        image: assets/img/timeline/timeline_city4logo.jpg
+        alt:
+      - title: "桃園市街頭藝術總會 成立"
+        year: "2021"
+        desc: "由City4 crew核心成員籌辦"
+        image: assets/img/timeline_tystreet.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+      - title: "City4 城四舞蹈工作室 成立"
+        year: "2024"
+        desc: "將原本練習室改造成舞蹈工作室"
+        image: assets/img/timeline_studiologo.jpg
+        alt:
+        # you can enforce the alignment
+        align: 
+        - title: "城四娛樂行銷有限公司 成立"
+        year: "2024"
+        desc: ""
+        image: assets/img/timeline_studiologo.jpg
         alt:
         # you can enforce the alignment
         align: right
