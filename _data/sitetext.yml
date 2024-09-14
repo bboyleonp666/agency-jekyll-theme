@@ -59,16 +59,12 @@ en: &DEFAULT_EN
         desc: "將原本練習室改造成舞蹈工作室"
         image: assets/img/timeline/timeline_studiologo.jpg
         alt:
-        # you can enforce the alignment
-        align: 
         - title: "城四娛樂行銷有限公司 成立"
         year: "2024"
         desc: ""
-        image: assets/img/timeline_studiologo.jpg
+        image: assets/img/timeline/timeline_studiologo.jpg
         alt:
-        # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
 
   about:
     title: "About Us"
