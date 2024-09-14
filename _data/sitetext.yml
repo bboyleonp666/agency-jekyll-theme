@@ -59,7 +59,8 @@ en: &DEFAULT_EN
         desc: "將原本練習室改造成舞蹈工作室"
         image: assets/img/timeline/timeline_studiologo.jpg
         alt:
-        - title: "城四娛樂行銷有限公司 成立"
+        align: left
+      - title: "城四娛樂行銷有限公司 成立"
         year: "2024"
         desc: ""
         image: assets/img/timeline/timeline_studiologo.jpg
