@@ -47,17 +47,17 @@ en: &DEFAULT_EN
       - title: "City4 crew 成立"
         year: "2020"
         desc: "集結新竹、桃園、新北、基隆四個城市舞者"
-        image: assets/img/timeline/timeline_city4logo.jpg
+        image: assets/img/timeline/timeline_city4logo.JPG
         alt:
       - title: "桃園市街頭藝術總會 成立"
         year: "2021"
         desc: "由City4 crew核心成員籌辦"
-        image: assets/img/timeline_tystreet.jpg
-        alt: image alt text
+        image: assets/img/timeline/timeline_tystreet.JPG
+        alt: 
       - title: "City4 城四舞蹈工作室 成立"
         year: "2024"
         desc: "將原本練習室改造成舞蹈工作室"
-        image: assets/img/timeline_studiologo.jpg
+        image: assets/img/timeline/timeline_studiologo.jpg
         alt:
         # you can enforce the alignment
         align: 
