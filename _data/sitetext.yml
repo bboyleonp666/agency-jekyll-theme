@@ -139,7 +139,12 @@ en: &DEFAULT_EN
             icon: fab fa-instagram
           - url: https://youtu.be/OS3HsUyGO70?si=aQcZz0w60nXHsJf_
             icon: fab fa-youtube
-
+      - name: "Fong"
+        role: "Crew Fool"
+        image: assets/img/team/team_fong.jpg
+        social:
+          - url: https://www.instagram.com/bboy_fong
+            icon: fab fa-instagram
   contact:
     title: "Contact Us"
     text: "For comercial inquiries or questions, please email us."
