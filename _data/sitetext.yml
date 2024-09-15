@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "服務項目"
-    text: "Lorem ipsum"
+    text: ""
     section: services
     list:
       - title: "街舞教學及演出"
@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "旗下組織"
-    text: "abc"
+    text: ""
     section: portfolio
     closebutton: "Close Project"
 
@@ -54,9 +54,9 @@ en: &DEFAULT_EN
         desc: "由City4 crew核心成員籌辦"
         image: assets/img/timeline/timeline_tystreet.JPG
         alt: 
-      - title: "City4 城四舞蹈工作室 成立"
+      - title: "城四舞蹈工作室 成立"
         year: "2024"
-        desc: "將原本練習室改造成舞蹈工作室"
+        desc: ""
         image: assets/img/timeline/timeline_studiologo.jpg
         alt:
         align: left
@@ -150,19 +150,20 @@ en: &DEFAULT_EN
           - url: https://www.instagram.com/bboy_fong
             icon: fab fa-instagram
   contact:
-    title: "Contact Us"
-    text: "For comercial inquiries or questions, please email us."
+    title: "聯絡我們"
+    text: ""
     section: contact
-    name: "Name*"
+    name: "姓名*"
     name-validation: "Please enter your name."
     email: "Email*"
     email-validation: "Please enter your email address."
-    phone: "Phone Number"
+    phone: "電話號碼"
     phone-validation: "Please enter your phone number."
-    message: "Message*"
+    message: "訊息*"
     message-validation: "Please enter a message."
     subject: "Contact Form Submission"
-    submit: "Send Message"
+    submit: "傳送"
+    - url:fatty82111@gmail.com
 
   footer:
     legal: "Privacy Policy"
