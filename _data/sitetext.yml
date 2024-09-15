@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: Welcome to our official website!
+    text: 城四娛樂行銷有限公司
     button: 服務項目
     buttonlink: "#services"
 
@@ -92,30 +92,34 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
-    text: "City 4 Crew members are ..."
+    title: "社群連結"
+    text: ""
     subtext: City 4 members are willing to share their passion with the world. Feel free to support and find them on social media.
     section: team
     people:
-      - name: "Beast"
-        role: "Crew Head"
-        image: assets/img/team/team_beast.jpeg
+      - name: "City4 crew"
+        role: "城四舞團"
+        image: assets/img/team/timeline_city4logo.JPG
         social:
-          - url: https://www.instagram.com/bboybeast
+          - url: https://www.facebook.com/city4crew
+            icon: fab fa-facebook-f
+          - url: https://www.instagram.com/city4crew
             icon: fab fa-instagram
-      - name: "Quake"
-        role: "我叫阿振"
-        image: assets/img/team/team_quake.jpeg
+      - name: "桃園市街頭藝術總會"
+        role: "Taoyuan Street Art"
+        image: assets/img/team/timeline_tystreet.png
         social:
           - url: https://www.facebook.com/bboyquaketw
             icon: fab fa-facebook-f
-          - url: https://www.instagram.com/quake_chan
+          - url: https://www.instagram.com/ty_streetart
             icon: fab fa-instagram
-      - name: "Yizuo"
-        role: "Financial Manager"
-        image: assets/img/team/team_yizuo.png
+      - name: "城四舞蹈工作室"
+        role: "City4 Dance Studio"
+        image: assets/img/team/timeline_studiologo.jpg
         social:
-          - url: https://www.instagram.com/yizuo_0601
+          - url: https://www.facebook.com/TaoyuanStreetArtAssociation
+            icon: fab fa-facebook-f
+          - url: https://www.instagram.com/city4_dance_studio
             icon: fab fa-instagram
       - name: "Lizardforce"
         role: "Dog Face Master"
