@@ -38,15 +38,15 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
-    text: "Events & Achievements"
+    title: "團隊組成經歷"
+    text: ""
     section: timeline
     # left is the default
     #start_align: "left"
     events:
       - title: "City4 crew 成立"
         year: "2020"
-        desc: "集結新竹、桃園、新北、基隆四個城市舞者"
+        desc: "集結新竹、桃園、新北、基隆<br />四個城市舞者"
         image: assets/img/timeline/timeline_city4logo.JPG
         alt:
       - title: "桃園市街頭藝術總會 成立"
@@ -60,6 +60,7 @@ en: &DEFAULT_EN
         image: assets/img/timeline/timeline_studiologo.jpg
         alt:
         align: left
+    end:
       - title: "城四娛樂行銷有限公司 成立"
         year: "2024"
         desc: ""
