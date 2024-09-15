@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "旗下組織"
-    text: ""
+    text: "abc"
     section: portfolio
     closebutton: "Close Project"
 
