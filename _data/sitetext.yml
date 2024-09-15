@@ -52,7 +52,7 @@ en: &DEFAULT_EN
       - title: "桃園市街頭藝術總會 成立"
         year: "2021"
         desc: "由City4 crew核心成員籌辦"
-        image: assets/img/timeline/timeline_tystreet.JPG
+        image: assets/img/timeline/timeline_tystreet.png
         alt: 
       - title: "城四舞蹈工作室 成立"
         year: "2024"
@@ -66,7 +66,6 @@ en: &DEFAULT_EN
         image: assets/img/timeline/timeline_studiologo.jpg
         alt:
         align: right
-        end:
 
   about:
     title: "About Us"
