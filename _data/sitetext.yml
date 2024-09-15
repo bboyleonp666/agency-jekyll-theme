@@ -60,13 +60,13 @@ en: &DEFAULT_EN
         image: assets/img/timeline/timeline_studiologo.jpg
         alt:
         align: left
-        end:
       - title: "城四娛樂行銷有限公司 成立"
         year: "2024"
         desc: ""
         image: assets/img/timeline/timeline_studiologo.jpg
         alt:
         align: right
+        end:
 
   about:
     title: "About Us"
