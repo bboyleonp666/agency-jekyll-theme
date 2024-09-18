@@ -16,12 +16,6 @@ en: &DEFAULT_EN
     button: 服務項目
     buttonlink: "#services"
 
-  about:
-    title: "About Us"
-    text: "our story"
-    body: "「持續突破是我們一直在進行的」- #KEEP GOING BREAK<br />起初從職業Breaking舞團City4 Crew起家，歷經5年的征戰與歷練，遇到了許多志同道合的夥伴，秉持著Breaking舞者的核心價值「突破」，不只要在街舞圈內發展，也希望破圈將街舞的精神傳遞給社會大眾，便在2024年創立了「城四娛樂行銷有限公司」，以此來提供各項專業服務。"
-    section: about
-    
   services:
     title: "服務項目"
     text: ""
@@ -72,6 +66,12 @@ en: &DEFAULT_EN
         image: assets/img/timeline/timeline_studiologo.jpg
         alt:
         align: right
+
+  about:
+    title: "About Us"
+    text: "our story"
+    body: "「持續突破是我們一直在進行的」- #KEEP GOING BREAK<br />起初從職業Breaking舞團City4 Crew起家，歷經5年的征戰與歷練，遇到了許多志同道合的夥伴，秉持著Breaking舞者的核心價值「突破」，不只要在街舞圈內發展，也希望破圈將街舞的精神傳遞給社會大眾，便在2024年創立了「城四娛樂行銷有限公司」，以此來提供各項專業服務。"
+    section: about
 
   clients:
     section: clients
