@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "服務項目"
-    text: ""
+    text: "Services"
     section: services
     list:
       - title: "街舞教學及演出"
@@ -32,14 +32,14 @@ en: &DEFAULT_EN
         icon: fas fa-users
 
   portfolio:
-    title: "旗下組織"
+    title: "重要經歷"
     text: ""
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "團隊組成經歷"
-    text: ""
+    text: "Timeline"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -68,8 +68,8 @@ en: &DEFAULT_EN
         align: right
 
   about:
-    title: "About Us"
-    text: "our story"
+    title: "關於我們"
+    text: "About us"
     body: "「持續突破是我們一直在進行的」- #KEEP GOING BREAK<br />起初從職業Breaking舞團City4 Crew起家，歷經5年的征戰與歷練，遇到了許多志同道合的夥伴，秉持著Breaking舞者的核心價值「突破」，不只要在街舞圈內發展，也希望破圈將街舞的精神傳遞給社會大眾，便在2024年創立了「城四娛樂行銷有限公司」，以此來提供各項專業服務。"
     section: about
 
@@ -93,7 +93,7 @@ en: &DEFAULT_EN
 
   team:
     title: "社群連結"
-    text: ""
+    text: "Social Media"
     subtext: City 4 members are willing to share their passion with the world. Feel free to support and find them on social media.
     section: team
     people:
@@ -155,7 +155,7 @@ en: &DEFAULT_EN
             icon: fab fa-instagram
   contact:
     title: "聯絡我們"
-    text: ""
+    text: "Contact us"
     section: contact
     name: "姓名*"
     name-validation: "Please enter your name."
