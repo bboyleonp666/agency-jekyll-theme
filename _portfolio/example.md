@@ -11,9 +11,11 @@ image: assets/img/portfolio/BN2022-1.jpg #main image, can be a link or a file in
 alt: image alt text
 
 ---
-桃園景福宮與Breaking賽事結合，台灣首次中西文化的碰撞，1對1冠軍送往越南參加世界決賽。
+桃園景福宮與Breaking賽事結合，台灣首次中西文化的碰撞，
+1對1冠軍送往越南參加世界決賽。
 
-賽事影片:https://www.youtube.com/watch?v=b8dxKBRYdsg&list=PLlwYvqgoPIBklp8ICdcKOE3ld_uVAn3OF&ab_channel=City4Crew
+賽事影片:
+url: https://www.youtube.com/watch?v=b8dxKBRYdsg&list=PLlwYvqgoPIBklp8ICdcKOE3ld_uVAn3OF&ab_channel=City4Crew
 
 {:.list-inline} 
 - 日期:2022/09/11 

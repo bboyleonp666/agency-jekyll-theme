@@ -1,19 +1,20 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-full.jpg
+title: City Party Jam 2023
+subtitle: 
+image: assets/img/portfolio/CPJ2023.png
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/01-thumbnail.jpg
+  title: City Party Jam 2023
+  subtitle: 2023/04/15
+  thumbnail: assets/img/portfolio/CPJ2023-1.jpg
 ---
 
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+小型的派對活動，讓民眾可以零距離體驗Breaking，並設有現場塗鴉
+進入活動會場感受滿滿的嘻哈文化。
 
 {:.list-inline}
 
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- 日期: 2023/04/15
+- 地點: 桃園八德陀螺廣場
+- 活動內容: Breaking 2on2、1on1、現場塗鴉
