@@ -1,22 +1,22 @@
 ---
 caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
+  title: Breaking News
+  subtitle: 2022/09/11
+  thumbnail: assets/img/portfolio/BN2022.png
   
 #what displays when the item is clicked:
-title: Title
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+title: Breaking News 2022
+subtitle: 
+image: assets/img/portfolio/BN2022-1.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 
 ---
-Use this area to describe your project. **Markdown** supported.
+桃園景福宮與Breaking賽事結合，台灣首次中西文化的碰撞，1對1冠軍送往越南參加世界決賽。
 
-optional info list (delete if not using):
+賽事影片:https://www.youtube.com/watch?v=b8dxKBRYdsg&list=PLlwYvqgoPIBklp8ICdcKOE3ld_uVAn3OF&ab_channel=City4Crew
 
 {:.list-inline} 
-- Date: 
-- Client: 
-- Category: 
+- 日期:2022/09/11 
+- 地點:桃園景福宮 
+- 活動內容:Breaking 4on4、1on1 
 
