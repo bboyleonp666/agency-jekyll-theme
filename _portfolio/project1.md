@@ -1,13 +1,13 @@
 ---
 title: City Party Jam 2023
 subtitle: 
-image: assets/img/portfolio/CPJ2023.png
+image: assets/img/portfolio/CPJ2023-1.jpg
 alt: Shirts on a hanger
 
 caption:
   title: City Party Jam 2023
   subtitle: 2023/04/15
-  thumbnail: assets/img/portfolio/CPJ2023-1.jpg
+  thumbnail: assets/img/portfolio/CPJ2023.png
 ---
 
 小型的派對活動，讓民眾可以零距離體驗Breaking，並設有現場塗鴉
