@@ -10,7 +10,7 @@ caption:
   thumbnail: assets/img/portfolio/BN2023.png
 ---
 
-第二年舉辦在桃園景福宮，此次活動結合法國Break the Floor、
+第二年舉辦在桃園景福宮，此次活動結合法國Break th Floor、
 越南Hanoi All in One，冠軍送往法國及越南參加世界決賽。
 
 {:.list-inline}
