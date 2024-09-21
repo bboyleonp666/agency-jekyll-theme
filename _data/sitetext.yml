@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our official website!
-    text: 城四娛樂行銷有限公司
+    title: 
+    text: Welcome to our official website!
     button: 服務項目
     buttonlink: "#services"
 
@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "重要經歷"
-    text: ""
+    text: "Experience"
     section: portfolio
     closebutton: "Close Project"
 
