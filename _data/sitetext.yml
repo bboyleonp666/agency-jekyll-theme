@@ -25,7 +25,7 @@ en: &DEFAULT_EN
         desc: "Breaking(霹靂舞)、K-POP、Hiphop、霹靂舞運動選手培訓、商業表演、舞蹈編排"
         icon: fas fa-bolt #find more at https://fontawesome.com/icons
       - title: "活動籌辦"
-        desc: "動策劃與主題設計、活動現場執行、宣傳設計、供應商管理"
+        desc: "活動策劃與主題設計、活動現場執行、宣傳設計、供應商管理"
         icon: fas fa-laptop
       - title: "自媒體行銷"
         desc: "內容創作、短影音拍攝、剪輯、靜態攝影、活動紀錄"
