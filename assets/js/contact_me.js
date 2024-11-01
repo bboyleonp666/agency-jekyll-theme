@@ -10,7 +10,7 @@ $(function() {
     submitSuccess: function($form, event) {
       event.preventDefault(); // prevent default submit behaviour
       // get values from FORM
-      var url = "{% if site.gmail_api_service_domain %}{{ site.gmail_api_service_domain }}{% else %}https://127.0.0.1{% endif %}" + "{% if site.gmail_api_path %}{{ site.gmail_api_path }}{% else %}/contact{% endif %}";
+      var url = "{% if site.contactus_api %}{{ site.contactus_api }}{% else %}https://localhost/contactus{% endif %}";
       var name = $("input#name").val();
       var email = $("input#email").val();
       var phone = $("input#phone").val();
