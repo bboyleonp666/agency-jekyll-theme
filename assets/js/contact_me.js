@@ -10,7 +10,7 @@ $(function() {
     submitSuccess: function($form, event) {
       event.preventDefault(); // prevent default submit behaviour
       // get values from FORM
-	  var url = "https://formspree.io/" + "{% if site.formspree_form_path %}{{ site.formspree_form_path }}{% else %}{{ site.email }}{% endif %}";
+      var url = "{% if site.gmail_api_service_domain %}{{ site.gmail_api_service_domain }}{% else %}https://127.0.0.1{% endif %}" + "{% if site.gmail_api_path %}{{ site.gmail_api_path }}{% else %}/contact{% endif %}";
       var name = $("input#name").val();
       var email = $("input#email").val();
       var phone = $("input#phone").val();
@@ -22,19 +22,22 @@ $(function() {
       }
       $this = $("#sendMessageButton");
       $this.prop("disabled", true); // Disable submit button until AJAX call is complete to prevent duplicate messages
+
+      var dataToSend = JSON.stringify({
+        name: name,
+        phone: phone,
+        email: email,
+        message: message
+      });
+
       $.ajax({
         url: url,
         type: "POST",
-	dataType: "json",
-        data: {
-          name: name,
-          phone: phone,
-          email: email,
-          message: message
-        },
+        contentType: "application/json",
+        data: dataToSend,
         cache: false,
 
-		success: function() {
+        success: function() {
           // Success message
           $('#success').html("<div class='alert alert-success'>");
           $('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;")
